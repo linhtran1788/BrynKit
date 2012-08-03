@@ -1,0 +1,4 @@
+[subtree "Vendor/MAObjCRuntime"]
+	url = git://github.com/mikeash/MAObjCRuntime.git
+	path = Vendor/MAObjCRuntime
+	branch = master

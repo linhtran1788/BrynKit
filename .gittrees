@@ -2,3 +2,7 @@
 	url = git://github.com/mikeash/MAObjCRuntime.git
 	path = Vendor/MAObjCRuntime
 	branch = master
+[subtree "Vendor/Circle"]
+	url = git://github.com/mikeash/Circle.git
+	path = Vendor/Circle
+	branch = master

@@ -10,3 +10,7 @@
 	url = git://github.com/robb/Underscore.m.git
 	path = Vendor/Underscore.m
 	branch = master
+[subtree "Vendor/ObjC-DesignByContract"]
+	url = git://github.com/brynbellomy/ObjC-DesignByContract.git
+	path = Vendor/ObjC-DesignByContract
+	branch = master
